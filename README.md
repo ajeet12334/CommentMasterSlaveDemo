@@ -22,3 +22,6 @@ This is simple app which fetch the data show in Master/Detail format using Hooks
 3. react-native run-android
 
 Note : This App is using latest hooks i.e. useState, useEffect, useReducer. I used useReducer to manage the state due to its small app otherwise i will use React-redux. I used functional programming so all components are functional component.
+
+![alt text](https://github.com/ajeet12334/CommentMasterSlaveDemo/blob/master/list.png)
+![alt text](https://github.com/ajeet12334/CommentMasterSlaveDemo/blob/master/detail.png)
